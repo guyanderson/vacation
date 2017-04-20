@@ -1,0 +1,12 @@
+.panel-title {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  color: blue;
+}
+  .panel {
+    background-color: red;
+  }
+  .panel-title{
+    background-color: green;
+  }
